@@ -1,0 +1,37 @@
+{
+  "totalRecords": 5,
+  "articles": [{
+    "category": "E-commerce",
+    "author": "Midwest Communications Inc.",
+    "title": "Alibaba to buy food delivery app Ele.me",
+    "description": "(Reuters) - Chinese e-commerce giant Alibaba Group Holding Ltd  said on Monday it would buy the remaining shares of Ele.me, a major platform in China's food delivery market, as it competes with Tencent Holdings Ltd <0700.HK> services for offline consumers.\nAl…",
+    "publishedAt": "2018-04-02T04:50:28Z"
+  }, {
+    "category": "Stock Exchange",
+    "author": "Shinichi Saoshiro",
+    "title": "Global Markets: Asia stocks start new quarter on front foot, dollar steady",
+    "description": "Asian stocks began the new quarter on Monday with mild gains following a strong performance by global equities last week, while the dollar held steady ahead of key economic indicators.",
+    "publishedAt": "2018-04-02T03:37:06Z"
+  }, {
+    "category": "Stock Exchange",
+    "author": "Kosaku Narioka",
+    "title": "Stock Markets Rise Despite China Trade Retaliation",
+    "description": "Asia stocks rose Monday as investors looked beyond the latest trade developments to continue a fragile uptick in global equities.",
+    "publishedAt": "2018-04-02T03:19:41Z"
+  },
+    {
+      "category": "Politics",
+      "author": "Josh Gerstein",
+      "title": "Accused NSA leaker wants to subpoena states, cybersecurity firms and federal agencies",
+      "description": "National Security Agency contractor Reality Winner, who is accused of leaking a top-secret report on Russian hacking activity connected to the 2016 election, is seeking to pull 21 states and an array of leading cybersecurity firms into her criminal case by subpoenaing them as part of her trial.",
+      "publishedAt": "2018-04-01T03:19:41Z"
+    },
+    {
+      "category": "Politics",
+      "author": "Megan Cassella",
+      "title": "China to slap tariffs on 128 U.S. goods",
+      "description": "China is moving forward with its plan to counter President Donald Trump's new tariffs on steel and aluminum, levying duties that will take effect Monday on more than $3 billion in U.S. exports to the country.",
+      "publishedAt": "2018-04-01T04:19:41Z"
+    }
+  ]
+}
